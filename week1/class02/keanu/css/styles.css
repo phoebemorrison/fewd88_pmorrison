@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+div{
+	width: 370px;
+	align: auto 0;
+}
+p{
+	text-align: justify;
+	font-family: garamond;
+}
